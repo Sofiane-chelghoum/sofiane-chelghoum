@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Ferhat Abbas Setif.
 - 💼 &nbsp; Working as a Freelance.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🌱 &nbsp; Learning more about Web Develepment, Data Science and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as a hobby .
 
