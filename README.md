@@ -1,4 +1,4 @@
-<img src="https://github.com/sofiane-ch19/sofiane-ch19/blob/main/Sfn.jpg">
+<img align="right" width="400" height="400" src="https://github.com/sofiane-ch19/sofiane-ch19/blob/main/Sfn.jpg">
 
 <h2> Hey there! I'm Sofiane.</h2>
 
