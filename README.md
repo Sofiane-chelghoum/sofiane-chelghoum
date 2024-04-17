@@ -1,12 +1,11 @@
-<img align="right" width="400" height="400" src="https://github.com/sofiane-ch19/sofiane-ch19/blob/main/Sfn.jpg">
 
 <h2> Hey there! I'm Sofiane.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Working as a Freelance.
+- 🤔 &nbsp;Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Ferhat Abbas Setif.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions .
+- 💼 &nbsp; Working as a Freelance.
 - 🌱 &nbsp; Learning more about Web Develepment, Data Science and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as a hobby .
 
