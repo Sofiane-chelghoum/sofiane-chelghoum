@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiane-ch19&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiane-ch19&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiane-chelghoum&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiane-chelghoum&theme=buefy&layout=compact" />
 </a>
 
 <br/>
