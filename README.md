@@ -2,9 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 - 💼 Software Engineer | Full Stack Developer | AI / ML / DL / LLM Enthusiast  
+
 - 🎓 Studying Computer Science  
-- 🤖 Building intelligent systems and web applications.  
-- 🌱 Continuously learning new technologies and frameworks.
+
+- 🤖 Building intelligent systems and web applications  
+
+- 🌱 Continuously learning new technologies and frameworks
 
 <h3> 🛠 Tech Stack </h3>
 
