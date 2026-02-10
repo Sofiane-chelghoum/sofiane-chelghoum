@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Sfn</h2>
+<h2> Hey there! I'm Sofiane</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 - 💼 Software Engineer | Full Stack Developer | AI / ML / DL / LLM Enthusiast  
