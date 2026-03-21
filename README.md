@@ -13,7 +13,7 @@
 - 🎨 Applying UI/UX principles to build clean and user-centered applications
 - 🧩 Bridging the gap between AI and Full Stack Development
 - 🧠 Research focus: AI in Healthcare & Radiology Reporting
-- 🏆 3rd Place - Huawei ICT Competition 2025 (Innovation Track)
+- 🏆 Active in competitions, collaborations, and innovation challenges
 
 ---
 
@@ -47,14 +47,18 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
+![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 ---
 
 ### 📌 Current Focus
 
-- 🔬 Research in AI for medical imaging & report generation
-- 🧩 LLM-based collaborative systems
-- 🚀 Deploying ML models (Flask, Streamlit, Cloud)
+- 🔬 Advancing AI research in medical imaging & radiology report generation
+- 🤖 Designing LLM-based collaborative and intelligent systems
+- 🌐 Building full stack AI applications with Next.js, TypeScript & modern APIs
+- 🔗 Integrating AI models into scalable, real-world products
+- 🚀 Deploying and optimizing ML systems (Flask, Streamlit, Cloud)
 
 ---
 
@@ -67,7 +71,7 @@
   <a href="https://twitter.com/Sofiane_Chl">
     <img src="https://img.shields.io/badge/Twitter-Sofiane_Chl-blue?style=flat-square&logo=twitter">
   </a>
-  <a href="mailto:chelghoum.sofiane19@gmail.com">
+  <a href="mailto:chelghoum@estin.dz">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail">
   </a>
 </p>
