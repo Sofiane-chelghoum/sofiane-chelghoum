@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 PhD Student in Computer Science (AI)
+- 🎓 PhD Researcher in Computer Science (AI)
 - 💼 Full Stack Developer & AI Engineer
 - 🤖 Building AI-powered systems combining ML, DL, LLMs & modern web technologies
 - 🌐 Strong experience with APIs, scalable architectures, and intelligent integrations
